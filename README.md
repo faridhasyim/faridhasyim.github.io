@@ -1,2 +1,1 @@
-# faridhasyim.github.io
-Website
+Hello World :)
